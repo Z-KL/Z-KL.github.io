@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>lambda函数</title>
+      <link href="/2020/06/03/lambda%E5%87%BD%E6%95%B0/"/>
+      <url>/2020/06/03/lambda%E5%87%BD%E6%95%B0/</url>
+      
+        <content type="html"><![CDATA[<p>title: lambda函数与递归<br>date: 2020-06-03 09:05:02<br>tags:<br>           Python<br>categories:<br>           日志笔记</p><p>lambda函数</p><img src=" qb51c241q.bkt.clouddn.com/img/banner/20200603085032.png"/><p>递归</p><!--斐波那切数列--><img src=" qb51c241q.bkt.clouddn.com/img/note/python/20200603090634.png"/><!--汉诺塔--><p><code>def hanoi(a,b,c,n):    if n==1:        print(a,&#39;-&gt;&#39;,c)    else:        hanoi(a,c,b,n-1)        print(a,&#39;-&gt;&#39;,c)        hanoi(b,a,c,n-1)</code></p><img src=" qb51c241q.bkt.clouddn.com/img/note/python/20200603092859.png"/>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>my-first-blog</title>
       <link href="/2020/04/20/my-first-blog/"/>
       <url>/2020/04/20/my-first-blog/</url>
