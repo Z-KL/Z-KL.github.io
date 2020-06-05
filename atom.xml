@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://z-kl.github.io/"/>
-  <updated>2020-06-03T01:32:28.953Z</updated>
+  <updated>2020-04-29T06:48:51.084Z</updated>
   <id>http://z-kl.github.io/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>lambda函数</title>
-    <link href="http://z-kl.github.io/2020/06/03/lambda%E5%87%BD%E6%95%B0/"/>
-    <id>http://z-kl.github.io/2020/06/03/lambda%E5%87%BD%E6%95%B0/</id>
-    <published>2020-06-03T01:32:57.663Z</published>
-    <updated>2020-06-03T01:32:28.953Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;title: lambda函数与递归&lt;br&gt;date: 2020-06-03 09:05:02&lt;br&gt;tags:&lt;br&gt;           Python&lt;br&gt;categories:&lt;br&gt;           日志笔记&lt;/p&gt;
-&lt;p&gt;lambda函数&lt;/p&gt;
-&lt;img
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>my-first-blog</title>
